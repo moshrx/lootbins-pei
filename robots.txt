@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lootbinscanada.com/sitemap.xml
